@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "kr.co.escare.n2e.app",
-    "slug": "kr.co.escare.n2e.app",
+    "slug": "nftappsecare",
     "version": "1.0.0",
     "scheme": "solcashapp",
     "orientation": "portrait",
@@ -34,7 +34,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "8f76b134-f054-4196-a074-41210e6560fb"
+        "projectId": "eb915174-91aa-46f3-adfa-a4741485bc70"
       }
     },
     "plugins": [
